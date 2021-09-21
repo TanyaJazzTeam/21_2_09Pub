@@ -1,9 +1,9 @@
 #: /views/partials/case-band.j2:6 /views/partials/case-band.j2:7
-sgid "A screenshot of a website using AMP."
+msgid "A screenshot of a website using AMP."
 msgstr ""
 
 #: /views/partials/format-visuals/websites.j2:10
-msgid "A screenshot showing amp-sidebar.
+msgid "A screenshot showing amp-sidebar."
 msgstr ""
 
 #: /views/partials/format-visuals/websites.j2:7
