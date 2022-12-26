@@ -3,7 +3,7 @@ msgid "Had to lose my way to know which road to take."
 msgstr ""
 
 #: /views/partials/format-visuals/websites.j2:10
-msgid "Yesterday all my troubles seemed so far away, now it looks as though they’re here to stay. "
+msgid "Yesterday all my troubles seemed so far away, now it looks as though they’re here to stay."
 msgstr ""
 
 #: /views/partials/format-visuals/websites.j2:7
@@ -27,7 +27,7 @@ msgid "Leave behind your heartache, cast away. Just another product of today. Ra
 msgstr ""
 
 #: /views/partials/banner.j2:5
-msgid "Hey! I’ma keep running cause a winner don’t quit on themselves. "
+msgid "Hey! I’ma keep running cause a winner don’t quit on themselves."
 msgstr ""
 
 #: /views/partials/footer.j2:43
